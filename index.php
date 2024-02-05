@@ -5,8 +5,8 @@
 		<title>Home | COMP1002 HTML, CSS, and JS Fundamentals</title>
 		<meta name="author" content="Natalia S Dias" />
 		<meta name="description" content="Week 4 - Lab 4">
-		<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
-		<link rel="stylesheet" href="css/styles.css" />
+		<link rel="shortcut icon" href="favicon.png" type="x-icon" />
+		<link rel="stylesheet" href="styles.css" />
 		<!-- STEP 1: Save this file as index.php instead of index.html -->
 		<!-- STEP 2: Connect to your Web server, and upload all of the files in this lab to a new folder called 'lab4' inside the 'week4' directory we created during this week's lesson -->
 		<!-- STEP 3: Make sure that you can browse to this page on the server - the URL that you would have to enter into the address bar in a browser might look something like https://mysitename.azurewebsites.net/week4/lab4/index.php (for Microsoft Azure) -->
