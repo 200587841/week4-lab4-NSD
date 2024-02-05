@@ -71,7 +71,7 @@
 					<p>Play is often talked about as if it were a relief from serious learning. But for children, play <em>is</em> serious learning. Play is really the work of childhood. –Fred Rogers</p>
 				</blockquote>
 				<p>Take a little time every day to just <strong>play</strong> with technology – you’ll be surprised how much you learn.</p>
-				<img src="images/mini-figure.png" width="176" height="285" alt="Mini figure">
+				<img src="mini-figure.png" width="176" height="285" alt="Mini figure">
 			</aside>
 <!-- STEP 10: Make sure all of your HTML code is properly formatted, indenting nested tags with the tab key appropriately. All done! -->
 			<!-- Mini figure by Vanja (Public Domain) https://openclipart.org/detail/224315/clip-is-a-brick-minifig-4 -->
